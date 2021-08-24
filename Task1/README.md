@@ -1,1 +1,3 @@
-
+- This Tour website is developed using HTML, CSS ,JavaScript .
+- This website is compatible with all type of mobile and desktop devices.
+- Eforlad is fully responsive web application with easy and pleasant user interface .
